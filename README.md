@@ -1,7 +1,7 @@
 # Alex-Mawunya-Tagbor
 
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Alex Mawunya Tagbor 👋</h1>
+<h1 align="center">Hi, I'm Alex Mawunya Tagbor </h1>
 <p align="center">
   A passionate <strong>Front-End Developer</strong> and <strong>Tech-Education Enthusiast</strong>  <br/>
   Driven by purpose, inspired by innovation 
