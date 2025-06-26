@@ -3,8 +3,8 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi there, I'm Alex Mawunya Tagbor 👋</h1>
 <p align="center">
-  A passionate <strong>Front-End Developer</strong> and <strong>Tech-Education Enthusiast</strong> 🚀 <br/>
-  Driven by purpose, inspired by innovation ✨
+  A passionate <strong>Front-End Developer</strong> and <strong>Tech-Education Enthusiast</strong>  <br/>
+  Driven by purpose, inspired by innovation 
 </p>
 
 <!-- ABOUT ME SECTION -->
@@ -28,14 +28,45 @@ Tech Stack & Tools
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode,firebase" alt="Tech Stack Icons"/>
 </div>
 
-Let's Connect!
+## What I'm Working On
 
+### **My Tech Services Website** – [View Project](https://emmedia.netlify.app/)
+
+I’m currently building a business website that connects individuals and businesses to **skilled service providers** in:
+
+- 💻 Web Development
+- 🎨 Graphic Design
+- 🛠️ PC Maintenance & Tech Support
+- 🖨️ Digital Printing & Tech Services
+
+Unlike traditional agencies, this platform allows users to **find and contact independent service providers** based on their needs — kind of like a local freelancer directory. The site does not currently provide the services itself, but helps people access trusted tech professionals in one place.  
+ *(I'm working on features that will allow the platform to eventually offer services directly too.)*
+
+
+Featured Projects
+Self-Directed Learning Hub (In Progress)
+A web platform designed to support visual, auditory, and kinesthetic learners in both online and offline environments.
+Tech: React, Tailwind, Firebase, Web Speech API
+Goal: Make inclusive learning accessible anywhere, anytime.
+
+EduQuizz
+A lightweight quiz web app for students preparing for basic school exams.
+Tech: HTML, CSS, JavaScript
+Features: Timer, score tracking, randomized questions
+Check out more in my Pinned Repositories below!
+
+<!-- GITHUB STATS SECTION -->
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/> </p>
+
+
+Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/alex-mawunya-tagbor">
-    LinkedIn
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:atagbor@yahoo.com">
-    Email
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
