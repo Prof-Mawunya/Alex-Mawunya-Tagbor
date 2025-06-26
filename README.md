@@ -56,12 +56,8 @@ Tech: HTML, CSS, JavaScript
 Features: Timer, score tracking, randomized questions
 Check out more in my Pinned Repositories below!
 
-<!-- GITHUB STATS SECTION -->
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/> </p>
 
-
-Let's Connect!
+### Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/alex-mawunya-tagbor">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
