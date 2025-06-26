@@ -1,14 +1,14 @@
 # Alex-Mawunya-Tagbor
 
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi there, I'm Alex Mawunya Tagbor 👋</h1>
+<h1 align="center">Hi, I'm Alex Mawunya Tagbor 👋</h1>
 <p align="center">
   A passionate <strong>Front-End Developer</strong> and <strong>Tech-Education Enthusiast</strong>  <br/>
   Driven by purpose, inspired by innovation 
 </p>
 
 <!-- ABOUT ME SECTION -->
-## 👨‍💻 About Me
+## About Me
 <!-- This is HTML embedded inside Markdown for enhanced formatting -->
 <div style="line-height: 1.7;">
   Hello! I'm <strong>Alex Mawunya Tagbor</strong>, a committed learner in the <strong>ALX Front-End Developer</strong> program and an aspiring software engineer who believes that <em>technology has the power to transform learning, opportunity, and lives</em>.
@@ -43,7 +43,8 @@ Unlike traditional agencies, this platform allows users to **find and contact in
  *(I'm working on features that will allow the platform to eventually offer services directly too.)*
 
 
-Featured Projects
+### Featured Projects
+
 Self-Directed Learning Hub (In Progress)
 A web platform designed to support visual, auditory, and kinesthetic learners in both online and offline environments.
 Tech: React, Tailwind, Firebase, Web Speech API
